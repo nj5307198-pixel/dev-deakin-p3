@@ -46,8 +46,3 @@ npm run dev
 
 Runs on http://localhost:3000
 
-## Notes
-
-- Images use placeholder URLs (picsum.photos) — swap in your own photos/screenshots before submitting.
-- Replace the article/tutorial content in `src/data/articles.js` and `src/data/tutorials.js` with real content if required.
-- Remember to set the GitLab repo visibility to **Internal** and confirm `node_modules/` is not committed (already covered by `.gitignore`).
